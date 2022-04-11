@@ -1,0 +1,103 @@
+// GET featured_movies/_search
+{
+  "movieId": "aa4e2d30-4ac9-4271-b65a-dc3c58265492",
+  "sessions": [
+    {
+      "date": "2022-04-11",
+      "items": [
+        {
+          "location": {
+            "name": "Cinema Marquize",
+            "address": "Avenida Paulista, 2073 - Conjunto Nacional - Cinema",
+            "rooms": [
+              {
+                "name": "Sala 1",
+                "tags": ["DUB"],
+                "chairs": [
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:1",
+                    "type": "wheelchair"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:2",
+                    "type": "escort"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:3",
+                    "type": "wheelchair"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:4",
+                    "type": "escort"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:5",
+                    "type": "obese"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:6",
+                    "type": "default"
+                  }
+                ]
+              },
+              {
+                "name": "Sala 2",
+                "tags": ["DUB", "3D"],
+                "chairs": [
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:1",
+                    "type": "wheelchair"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:2",
+                    "type": "escort"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:3",
+                    "type": "wheelchair"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:4",
+                    "type": "escort"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:5",
+                    "type": "obese"
+                  },
+                  {
+                    "chairId": "42cb3f1b-321d-4e39-809e-828fffadbaf2",
+                    "status": "unavailable",
+                    "position": "D:6",
+                    "type": "default"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

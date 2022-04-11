@@ -1,0 +1,20 @@
+// GET tickets_sold/_search
+{
+  "userId": "9a86c602-3d85-4da0-9c5e-d3da3247eaa8",
+  "sessionId": "f2540cd5-5419-4947-ad2c-dc86005d2051",
+  "locationId": "bd76d77d-1fa9-403c-9c9c-92209f67bfb8",
+  "movieId": "8ebeaf20-bf14-4566-8e24-bdb8e70b7b7a",
+  "roomId": "d13867d4-1fb0-4d11-a7a0-5f8b0665d309",
+  "tickets": [
+    {
+      "type": "full",
+      "price": 41.22
+    },
+    {
+      "type": "half",
+      "price": 20.61
+    }
+  ],
+  "ticketsCount": 2,
+  "date": "2022-04-11 16:49:05"
+}
